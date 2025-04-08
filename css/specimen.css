@@ -10480,6 +10480,7 @@ pre.wp-block-verse {
 
 @media screen and (max-width: 750px) {
     .l-contents {
+        /* margin-top: 70px; */
         padding-left:calc(30/750*100vw);
         padding-right: calc(30/750*100vw)
     }
